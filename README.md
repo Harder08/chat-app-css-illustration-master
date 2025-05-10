@@ -17,8 +17,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [here](https://chat-app-css-illustration-master-harder08.vercel.app/)
 
 ### Built with
 
@@ -30,4 +29,3 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 ## Author
 
 - Frontend Mentor - [@Harder08](https://www.frontendmentor.io/profile/Harder08)
-- Twitter - [@KAREEMHARDER](https://www.twitter.com/KAREEMHARDER)
